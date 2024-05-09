@@ -1,0 +1,96 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    overflow:hidden;
+    background-image: url(/img/Background.png); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.navegação{
+    height: 120px;
+    display: flex;
+}
+
+.ls{
+    display: flex;
+    column-gap: 65px;
+    color: white;
+    font-size: 24px;
+    margin: 55px 0 0 300px;
+    font-family: Poppins;
+    font-weight: 600;
+}
+
+.logo{
+    margin: 30px 0 0 100px;
+}
+
+.lupa{
+    width: 35px;
+    height: 35px;
+    margin: 53px 0 0 300px;
+}
+
+.infos{
+    width: 135px;
+    height: 39px;
+    margin: 53px 0 0 100px;
+}
+
+.bolinha{
+    width: 17px;
+    height: 17px;
+    margin: 50px 0 0 -115px;
+}
+
+hr{
+    height: 1px;
+    width: 2500px;
+    margin: 125px 0 0 -1800px;
+}
+
+.h03{
+    color: white;
+    font-family: B612;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 150px 0 0 850px;
+}
+
+.titulo{
+    color: white;
+    font-family: B612;
+    font-size: 96px;
+    margin: 35px 0 0 870px;
+}
+
+.imgloki{
+    width: 200px;
+    height: 300px;
+    margin: -180px 0 0 350px;
+}
+
+.relogio{
+    width: 36px;
+    height: 35px;
+    margin: 100px 0 0 100px;
+}
+
+.time{
+    color: white;
+    font-size: 24px;
+    font-family: B612;
+    font-weight: 700;
+    margin: -10px 0 0 715px;
+}
+main{
+
+    
+}
